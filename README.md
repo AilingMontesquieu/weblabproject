@@ -1,4 +1,6 @@
-# How to code a webapp with this skeleton
+# weblabproject
+
+## How to code a webapp with this skeleton
 
 ## Initial setup
 
@@ -96,4 +98,3 @@ webpack.config.js
 ```
 
 ## Good luck on your project :)
-# weblabproject
